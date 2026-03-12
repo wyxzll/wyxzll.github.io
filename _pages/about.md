@@ -18,10 +18,10 @@ Yuxiang Wang, a graduate student at the School of Intelligent Science and Engine
 
 项目经历
 ======
-<video width="100%" controls poster="/assets/videos/video-poster.jpg">
-  <source src="/assets/videos/introduction.mp4" type="video/mp4">
+<video width="100%" controls poster="fengmian.jpg">
+  <source src="REALM1.mp4" type="video/mp4">
 </video>
-<p><small>一段关于我研究工作的简要介绍。</small></p>
+<p><small>我们的规划器在大型数据集nuPlan仿真成果展示。</small></p>
 
 主要科研成果
 ------
