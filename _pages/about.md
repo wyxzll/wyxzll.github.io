@@ -16,14 +16,12 @@ Yuxiang Wang, a graduate student at the School of Intelligent Science and Engine
 - 理论基础：机器人学，汽车理论，强化学习，矩阵分析，最优化理论，自动控制，最优控制。
 - 硬件水平：具有百度 Apollo D-Kit Lite真车调试经验。
 
-Getting started
+项目经历
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<video width="100%" controls poster="/assets/videos/video-poster.jpg">
+  <source src="/assets/videos/introduction.mp4" type="video/mp4">
+</video>
+<p><small>一段关于我研究工作的简要介绍。</small></p>
 
 主要科研成果
 ------
