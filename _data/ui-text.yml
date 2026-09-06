@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
-  website_label              : "Website"
+  website_label              : "基本情况"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
   site_map                   : "Sitemap"
