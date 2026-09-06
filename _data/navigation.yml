@@ -13,5 +13,8 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
+  - title: "研究成果"
+    url: /publications/
+  
     
 
