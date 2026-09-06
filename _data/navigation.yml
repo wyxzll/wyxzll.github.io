@@ -13,8 +13,8 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-  - title: "项目一"
-    url: /publications/
+  - title: "端到端多模式规划"
+    url: /projects/
   
     
 
