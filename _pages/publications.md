@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /project/
 title: "项目介绍"
 author_profile: true
 ---
