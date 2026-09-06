@@ -17,6 +17,11 @@ main:
     url: /projects/
   - title: "基于学习和规则模型的混合规划"
     url: /projects2/
+  - title: "端到端泊车"
+    url: /projects3/
+  - title: "基于数值优化的轨迹规划"
+    url: /projects4/
+  
   
     
 
