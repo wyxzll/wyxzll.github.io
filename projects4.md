@@ -45,6 +45,18 @@ author_profile: true
 
 ## 演示与结果
 
-- [行车轨迹规划演示视频](https://azukiscarlet.github.io/images/figures/project/driving/driving.mp4)
-- [典型场景规划效果对比](https://azukiscarlet.github.io/images/figures/project/driving/results.png)
-- [规划性能量化对比](https://azukiscarlet.github.io/images/figures/project/driving/comparasion.jpeg)
+### 行车轨迹规划演示视频
+
+<video width="100%" controls preload="metadata" playsinline>
+  <source src="{{ '/images/projects/QP/driving.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持 HTML5 视频播放。
+</video>
+
+### 典型场景规划效果对比
+
+![典型场景规划效果对比]({{ '/images/projects/QP/results.png' | relative_url }})
+
+### 规划性能量化对比
+
+![规划性能量化对比]({{ '/images/projects/QP/comparasion.jpeg' | relative_url }})
+
