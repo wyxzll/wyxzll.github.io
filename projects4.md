@@ -48,15 +48,15 @@ author_profile: true
 ### 行车轨迹规划演示视频
 
 <video width="100%" controls preload="metadata" playsinline>
-  <source src="{{ '/images/projects/QP/driving.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/_pages/projects/QP/driving.mp4' | relative_url }}" type="video/mp4">
   您的浏览器不支持 HTML5 视频播放。
 </video>
 
 ### 典型场景规划效果对比
 
-![典型场景规划效果对比]({{ '/images/projects/QP/results.png' | relative_url }})
+![典型场景规划效果对比]({{ '/_pages/projects/QP/results.png' | relative_url }})
 
 ### 规划性能量化对比
 
-![规划性能量化对比]({{ '/images/projects/QP/comparasion.jpeg' | relative_url }})
+![规划性能量化对比]({{ '/_pages/projects/QP/comparasion.jpeg' | relative_url }})
 
