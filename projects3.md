@@ -48,12 +48,39 @@ author_profile: true
 项目通过专家数据驱动的基础策略与闭环残差修正相结合，改善复杂、长时序泊车任务中的控制表现与策略鲁棒性。
 
 ## 演示与结果
-- [E-RAMP 整体框架图](https://azukiscarlet.github.io/images/figures/project/e2e/pipeline.png)
-- [专家轨迹采集与跟踪演示](https://azukiscarlet.github.io/images/figures/project/e2e/carla_results.mp4)
-- [多传感器数据采集演示](https://azukiscarlet.github.io/images/figures/project/e2e/carla_6in1.mp4)
-- [停车场闭环评估环境](https://azukiscarlet.github.io/images/figures/project/e2e/environment.png)
-- [基础策略与残差动作对比](https://azukiscarlet.github.io/images/figures/project/e2e/comparasion.png)
-- [闭环评估与强化学习结果视频](https://azukiscarlet.github.io/images/figures/project/e2e/result.mp4)
+
+### E-RAMP 整体框架
+
+![E-RAMP 整体框架图]({{ '/images/projects/e2e/pipeline.png' | relative_url }})
+
+### 专家轨迹采集与跟踪演示
+
+<video width="100%" controls preload="metadata" playsinline>
+  <source src="{{ '/images/projects/e2e/carla_results.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持 HTML5 视频播放。
+</video>
+
+### 多传感器数据采集演示
+
+<video width="100%" controls preload="metadata" playsinline>
+  <source src="{{ '/images/projects/e2e/carla_6in1.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持 HTML5 视频播放。
+</video>
+
+### 停车场闭环评估环境
+
+![停车场闭环评估环境]({{ '/images/projects/e2e/environment.png' | relative_url }})
+
+### 基础策略与残差动作对比
+
+![基础策略与残差动作对比]({{ '/images/projects/e2e/comparasion.png' | relative_url }})
+
+### 闭环评估与强化学习结果
+
+<video width="100%" controls preload="metadata" playsinline>
+  <source src="{{ '/images/projects/e2e/result.mp4' | relative_url }}" type="video/mp4">
+  您的浏览器不支持 HTML5 视频播放。
+</video>
 
 ## 相关论文
 
