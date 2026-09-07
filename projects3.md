@@ -48,9 +48,6 @@ author_profile: true
 项目通过专家数据驱动的基础策略与闭环残差修正相结合，改善复杂、长时序泊车任务中的控制表现与策略鲁棒性。
 
 ## 演示与结果
-
-以下框架图、实验图和演示视频来自[李想的端到端泊车项目介绍](https://azukiscarlet.github.io/project/4-e2e/)。
-
 - [E-RAMP 整体框架图](https://azukiscarlet.github.io/images/figures/project/e2e/pipeline.png)
 - [专家轨迹采集与跟踪演示](https://azukiscarlet.github.io/images/figures/project/e2e/carla_results.mp4)
 - [多传感器数据采集演示](https://azukiscarlet.github.io/images/figures/project/e2e/carla_6in1.mp4)
