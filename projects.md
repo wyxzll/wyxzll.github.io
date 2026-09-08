@@ -84,11 +84,3 @@ REALM 主要包含多模态轨迹生成器、策略优化器、潜在世界模�
 ### 相关论文
 
 Yuxiang Wang, Xiang Li, Xiaoqing Yang et al. "REALM: Reinforcement Fine-Tuning with Latent World Model Based Online Evaluation for Multimodal Planning," in 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026).
-
-## E-RAMP：多模态融合的端到端鲁棒泊车
-
-该项目面向复杂泊车场景，研究多模态感知与端到端控制的融合方法，并通过残差动作校正提升规划和控制的鲁棒性。
-
-## 后续项目
-
-项目页面会持续补充代码、演示视频、技术报告和开源链接。
