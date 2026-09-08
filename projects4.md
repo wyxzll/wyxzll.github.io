@@ -9,7 +9,7 @@ author_profile: true
 
 面向自动驾驶中的动态时空轨迹规划，研究基于数值优化的单阶段规划方法。通过减少重复碰撞检测，并在更大的解空间内直接优化轨迹，兼顾规划效率、轨迹质量与安全性。
 
-- **项目时间**：2024.01 - 2025.02（所属“基于数值优化的无人车轨迹规划控制”项目）。
+- **项目时间**：2024.01 - 2025.02
 - **项目支持**：深圳市基础布局研究项目、国家自然科学联合基金项目。
 - **技术栈**：百度 Apollo 框架、C++、Bazel、Python、Bokeh、采样搜索、数值优化、最优控制数值解。
 
@@ -48,15 +48,15 @@ author_profile: true
 ### 行车轨迹规划演示视频
 
 <video width="100%" controls preload="metadata" playsinline>
-  <source src="{{ '/images/projects/QP/driving.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/_pages/projects/QP/driving.mp4' | relative_url }}" type="video/mp4">
   您的浏览器不支持 HTML5 视频播放。
 </video>
 
 ### 典型场景规划效果对比
 
-![典型场景规划效果对比]({{ '/images/projects/QP/results.png' | relative_url }})
+![典型场景规划效果对比]({{ '/_pages/projects/QP/results.png' | relative_url }})
 
 ### 规划性能量化对比
 
-![规划性能量化对比]({{ '/images/projects/QP/comparasion.jpeg' | relative_url }})
+![规划性能量化对比]({{ '/_pages/projects/QP/comparasion.jpeg' | relative_url }})
 
